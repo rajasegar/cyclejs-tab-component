@@ -2,11 +2,11 @@
 A declarative approach for creating Bootstrap tab components using Cyclejs
 
 ## Demo
-- Work in progress
+- [View Demo](http://feeble-sail.surge.sh/)
 
 ### Dependencies
-- [[https://getbootstrap.com][Bootstrap]]
-- [[https://cyclejs.org][Cyclejs]]
+- [Bootstrap](https://getbootstrap.com)
+- [Cyclejs](https://cyclejs.org)
 
 ## How it works?
 This will take a simple HTML markup and convert this into a reactive Cyclejs Tab component.
